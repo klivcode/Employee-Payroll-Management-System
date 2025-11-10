@@ -1,4 +1,4 @@
-# 💼 Employee Payroll System (Core Java)
+# 💼 Employee Payroll Management System (Core Java)
 
 A console-based payroll management program built using **Core Java**, demonstrating **OOP concepts** such as abstraction, inheritance, and polymorphism.
 
